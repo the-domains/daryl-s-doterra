@@ -1,0 +1,28 @@
+name: "Daryl's DoTERRA"
+favicon: null
+layout_spectrum: 0.8840149943716824
+typography_spectrum: 0.673125066794455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4338495584670454
+  lightness: 0.2823543339036405
+  saturation: 0.8652044243644923
+  rhythmicContrast: 0.7032287530601025
+purpose: []
